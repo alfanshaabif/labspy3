@@ -16,7 +16,8 @@ step=1                                        ## Step angka 1
 for i in range(start,stop,step):              ## Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step
     print("data ke : ",i,"=",(a))             ## Mencetak hasil
 print("\nDone")
-
+```
+```
     Algoritma
 
 A. Input 
