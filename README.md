@@ -2,8 +2,8 @@
 # Latihan1
 
     Source Code
-
-n=int(input("Masukkan Nilai N: "))            ##Memperkenalkan variable n sebagai integer, kemudian menginputkan nilainya
+```
+n=int(input("Masukkan Nilai N: "))            ## Memperkenalkan variable n sebagai integer, kemudian menginputkan nilainya
 
 from random import random                     ## Mengimport fungsi random
 a=random()                                    ## Memperkenalkan variale a sebagai random
@@ -16,3 +16,4 @@ step=1                                        ## Step angka 1
 for i in range(start,stop,step):              ## Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step
     print("data ke : ",i,"=",(a))             ## Mencetak hasil
 print("\nDone")
+```
